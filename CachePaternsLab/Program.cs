@@ -10,7 +10,7 @@ namespace CachePatternLab
 {
     class ProgramByArrayCacheLab
     {
-        const double CacheDuration = 60.0;
+        const double CacheDuration = 61.0;
         private static readonly string[] MasterCacheKeyArray = { "ProductsCache" };
         static void Main(string[] args)
         {
